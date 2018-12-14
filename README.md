@@ -2,11 +2,11 @@
 Supercharge your Ender3 with Guides, Mods and Addons.
 Make your Ender3 work and worth like high end machines.
 
-**Note:** Tiago Conceiçao https://github.com/sn4k3has spend many hours trying put this together so you can supercharge your Ender-3 for "Free", if his work is important to you or you feel this worth a tip please buy him a coffee, or whatever: https://www.paypal.me/SkillTournament
+**Note:** Tiago Conceiçao https://github.com/sn4k3 has spend many hours trying put this together so you can supercharge your Ender-3 for "Free", if his work is important to you or you feel this worth a tip please buy him a coffee, or whatever: https://www.paypal.me/SkillTournament
 
 This repository is a fork of his original work and includes some improvements, notably on the printer settings for those who place their build surfaces on the heat bed with clips in the front and some other improvements. 
 
-It's not my own work, so a big thatnk you goes to Thiago!
+It's not my own work, so a big thank you goes to Thiago!
 
 Discussion Groups:
 * https://www.facebook.com/groups/Ender3/
