@@ -24,7 +24,7 @@ Modify at your needs.
 1. Download Slic3rPE from: https://github.com/prusa3d/Slic3r/releases
 2. Start and configure Slic3rPE (Wizard)
 3. Close Slic3rPE
-4. Open "C:\Users\{username}\AppSata\Slic3rPE"
+4. Open "C:\Users\\{username}\AppData\Slic3rPE"
 5. Copy GitHub Slic3rPE subfolders "printer", "filament", "print"
 6. Done
 
@@ -37,7 +37,7 @@ Modify at your needs.
 
 ### 2.2. Recommended Hardware:
 
-**Note:** Somes parts can override others! Study first what you want or need to buy.
+**Note:** Some parts can override others! Study first what you want or need to buy.
 
 * V6+Volcano 1.75mm 24V: https://www.aliexpress.com/store/product/Trianglelab-v6-Volcano-hotend-12V-24V-remote-Bowen-print-J-head-Hotend-and-cooling-fan-bracket/1654223_32844080369.html
 * Volcano Nozzles (1.75 Full Size Kit): https://www.aliexpress.com/store/product/trianglelab-Top-quality-V6-volcano-Nozzle-for-3D-printers-hotend-5pcs-lot-volcano-upgrade-kit-for/1654223_32839344108.html
